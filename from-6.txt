@@ -1,1 +1,2 @@
 hello
+merge test1 from 6
